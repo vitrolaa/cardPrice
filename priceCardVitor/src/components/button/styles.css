@@ -1,0 +1,28 @@
+.darkButton {
+  border: none;
+  color: #fff;
+  background-color: #996dff;
+}
+
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #996dff;
+  color: #fff;
+  padding: 16px 112.5px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 14px;
+  margin: 32px 0;
+  border-radius: 7px;
+}
+
+hr {
+  color: #334155;
+  height: 1px;
+  margin-bottom: 16px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #334155;
+}
